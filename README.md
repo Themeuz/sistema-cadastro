@@ -24,7 +24,6 @@ mas também podendo ser orientado a uma melhor performance utilizando JavaScript
 
 https://github.com/Themeuz/sistema-cadastro/assets/136213492/49baff6c-bd35-47df-b676-2533716f00aa
 
-
 ![image](https://github.com/Themeuz/sistema-cadastro/assets/136213492/beb72d04-380c-46f5-afb6-6b71b8ffdc64)
 ![image](https://github.com/Themeuz/sistema-cadastro/assets/136213492/e3a70e45-7950-4c36-94ca-92650af30605)
 
